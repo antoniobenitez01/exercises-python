@@ -187,5 +187,20 @@ ______________________________________________________________________________<b
         <tr> <td>4</td> <td>Programa Clases</td> <td>:white_check_mark:</td> </tr>
       </table>
     </td>
+    <td valign="top">
+      <table>
+        <tr> <th colspan="3">Ampliación PyGame</th> </tr>
+        <tr> <th>Nº</th> <th>Descripción</th> <th></th> </tr>
+        <tr> <td>1</td> <td>Arkanoid</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>2</td> <td>Asteroids</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>3</td> <td>Flappy Bird</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>4</td> <td>Frogger</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>5</td> <td>Mario</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>6</td> <td>Pac-Man</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>7</td> <td>Pong</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>8</td> <td>Rally</td> <td>:white_check_mark:</td> </tr>
+        <tr> <td>9</td> <td>Space Invaders</td> <td>:white_check_mark:</td> </tr>
+      </table>
+    </td>
   </table>
 </div>
